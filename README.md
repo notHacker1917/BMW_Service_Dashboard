@@ -424,9 +424,6 @@ streamlit run yamaha_feedback_ai/app/dashboard/app.py --server.port 8502
 
 Built as a comprehensive hackathon-ready ML system for Yamaha's quality analytics team.
 
-## License
-
-Internal Use Only - Yamaha Motor Corporation
 
 ## Support
 
