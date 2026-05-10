@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+hdbscan
+umap-learn
+litellm
+langdetect
+fastapi
+uvicorn
+streamlit
+plotly
+loguru
+tenacity
+aiohttp
+python-dotenv

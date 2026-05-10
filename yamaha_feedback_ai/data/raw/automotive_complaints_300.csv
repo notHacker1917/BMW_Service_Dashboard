@@ -1,0 +1,313 @@
+complaint_id,domain,vehicle_model,language,country,complaint_text,timestamp,severity,mileage_km
+1001,Infotainment,Mercedes GLB,English,India,Rear camera shows image 2-3 seconds after engaging reverse. Too slow.,2024-05-13 15:45:33,low,57883
+1002,Interior,Yamaha YZF-R1,English,Australia,Seatbelt buckle on passenger side very stiff. Hard to insert belt.,2022-10-06 18:40:31,medium,12456
+1003,PowerTrain,Yamaha MT-03,English,USA,Exhaust popping loudly on deceleration. More than normal.,2024-07-03 01:56:52,medium,126042
+1004,Infotainment,Mercedes GLE,Dutch,Belgium,Achteruitrijcamera toont soms een zwart scherm.,2025-03-24 02:29:47,medium,115761
+1005,Infotainment,Mercedes S-Class,French,Belgium,"Le GPS est très en retard, surtout en ville. Inutilisable.",2024-12-25 20:14:35,low,83128
+1006,Infotainment,Mercedes CLA,Danish,Denmark,Navigationssystem er meget langsomt til at genberegne ruten.,2025-01-16 22:50:31,high,48839
+1007,Infotainment,Mercedes S-Class,German,Germany,Lautstärkeregler funktioniert manchmal nicht. Ton bleibt gleich.,2023-09-23 09:48:46,high,111868
+1008,PowerTrain,Mercedes CLS,English,Australia,"Engine getting very hot, coolant boiling sound from under hood. Scary.",2023-03-23 08:13:15,critical,180799
+1009,Interior,Yamaha MT-15,English,New Zealand,Remote central locking stopped working. Battery changed but same problem.,2023-08-21 16:57:27,low,31685
+1010,Infotainment,Yamaha R3,French,Switzerland,Le système redémarre tout seul en conduisant. Très perturbant.,2022-07-19 22:02:55,critical,37850
+1011,Interior,Yamaha WR155,English,New Zealand,AC fan on max setting makes rattling sound. Normal speeds are quiet.,2024-09-10 08:32:41,high,87052
+1012,Infotainment,Mercedes GLA,Swedish,Sweden,Backkameran visar svart bild ibland när man lägger i backen.,2023-09-30 20:38:15,critical,10832
+1013,PowerTrain,Yamaha MT-07,English,New Zealand,Check engine light on. Scanner shows O2 sensor fault code.,2022-08-22 03:13:59,critical,121384
+1014,Infotainment,Yamaha MT-07,Polish,Poland,Ekran dotykowy całkowicie się zawiesił podczas jazdy autostradą.,2024-04-11 13:03:46,critical,84473
+1015,Infotainment,Yamaha NMAX,Swedish,Sweden,Pekskärmen svarar inte vid kallt väder på morgonen.,2024-07-23 02:41:30,low,68667
+1016,Interior,Mercedes G-Class,English,Australia,Mirror adjustment buttons stopped working. Cant adjust driver side mirror.,2025-01-17 13:45:49,low,66840
+1017,Interior,Mercedes S-Class,English,India,AC stopped blowing cold air suddenly. Works for 10 mins then goes warm again.,2022-11-03 05:41:48,low,74968
+1018,Infotainment,Mercedes GLB,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2024-07-22 22:44:22,low,10458
+1019,PowerTrain,Mercedes S-Class,English,India,Transmission jerks violently sometimes randomly while cruising. No warning.,2024-10-12 16:45:37,critical,51828
+1020,Infotainment,Yamaha FZ25,German,Austria,Rückfahrkamera zeigt schwarzes Bild manchmal beim Einlegen des Rückwärtsgangs.,2023-12-04 07:05:19,high,56600
+1021,Infotainment,Yamaha WR155,English,Canada,Rear camera shows image 2-3 seconds after engaging reverse. Too slow.,2024-01-13 01:56:31,high,106785
+1022,Interior,Yamaha MT-09,English,South Africa,Footrest area gets very hot on long drives. Almost burns foot through shoe.,2022-12-28 11:31:05,critical,35997
+1023,Interior,Mercedes A-Class,English,New Zealand,Steering shakes badly when going over rough patches. Feels very unstable.,2024-01-23 08:17:43,medium,25257
+1024,PowerTrain,Mercedes CLS,English,New Zealand,Harsh jerk during gear change esp in morning when engine cold.,2024-02-20 10:35:56,high,59367
+1025,PowerTrain,Mercedes GLB,German,Switzerland,Kupplung schleift auf Steigungen beim Anfahren. Brenngeruch wahrnehmbar.,2022-07-03 19:10:05,high,93017
+1026,Interior,Mercedes A-Class,English,UK,Seat shaking alot when doing 80kmh+. Very uncomfortable cant ride for long.,2023-04-05 15:24:52,medium,30795
+1027,Infotainment,Yamaha YZF-R1,French,France,L'assistant vocal ne comprend pas mes commandes. Inutilisable.,2022-09-19 17:06:23,high,109172
+1028,Interior,Mercedes E-Class,English,UK,Seatbelt buckle on passenger side very stiff. Hard to insert belt.,2022-10-18 08:00:57,medium,20333
+1029,Infotainment,Yamaha Aerox,Danish,Denmark,Bluetooth afbryder forbindelsen til min telefon hvert 5. minut.,2022-10-02 08:12:31,medium,90023
+1030,PowerTrain,Mercedes CLA,English,USA,Engine rpm fluctuates randomly at idle. Goes between 500 and 1200 rpm.,2023-11-17 19:09:38,high,115062
+1031,Infotainment,Yamaha YZF-R1,Spanish,Spain,La pantalla táctil no responde bien cuando hace frío.,2023-10-26 21:11:44,high,110954
+1032,Interior,Yamaha MT-07,English,South Africa,"Noticed seat vibration started few weeks ago, gets worse when engine warms up",2022-09-05 08:33:46,high,55248
+1033,Infotainment,Mercedes S-Class,English,Australia,Navigation lag is terrible in city. Map updates 3-4 seconds behind.,2024-09-02 16:46:00,high,1942
+1034,Infotainment,Mercedes S-Class,Dutch,Netherlands,Geluid vervormt bij hoog volume. Bas klonkt raar.,2023-01-31 04:29:10,low,101448
+1035,PowerTrain,Yamaha NMAX,German,Switzerland,Kraftstoffverbrauch stark gestiegen ohne ersichtlichen Grund. Einspritzdüse defekt?,2024-08-14 00:32:24,high,128745
+1036,Infotainment,Mercedes B-Class,Polish,Poland,System nawigacji jest bardzo opóźniony w centrum miasta.,2023-01-26 16:22:09,medium,34932
+1037,Infotainment,Yamaha MT-09,French,France,L'assistant vocal ne comprend pas mes commandes. Inutilisable.,2022-09-03 12:05:14,medium,42369
+1038,PowerTrain,Yamaha NMAX,English,South Africa,Engine cuts out at roundabouts when turning and braking together.,2024-04-21 15:40:30,high,15164
+1039,Infotainment,Mercedes GLC,English,India,Voice assistant doesn't understand my commands half the time.,2023-09-12 20:43:44,high,114130
+1040,Interior,Yamaha MT-15,English,UK,Mirror adjustment buttons stopped working. Cant adjust driver side mirror.,2023-04-21 15:34:06,low,9134
+1041,PowerTrain,Mercedes AMG GT,English,USA,Deep knock sound from engine. Gets worse as rpm increases. Very concerning.,2024-03-17 08:49:18,low,146619
+1042,Interior,Mercedes EQS,English,UK,Cabin interior smells like burning plastic after long drives. Very concerning.,2022-11-25 14:44:08,high,34964
+1043,Infotainment,Mercedes G-Class,English,Canada,Speed limit sign recognition showing wrong limits constantly.,2023-03-04 07:14:05,medium,55873
+1044,Interior,Yamaha XSR900,English,South Africa,Vibration thru steering wheel when braking from high speed. Scary feeling.,2023-05-26 13:23:51,medium,72812
+1045,Infotainment,Yamaha R15,Turkish,Turkey,Sesli asistan komutları anlamıyor. Elleri serbest kullanamıyorum.,2024-10-17 08:04:39,medium,47973
+1046,PowerTrain,Mercedes GLC,German,Germany,Getriebe springt aus dem Gang beim Bergabfahren. Sehr gefährlich.,2024-06-24 23:35:07,medium,171749
+1047,Infotainment,Mercedes GLA,English,South Africa,Navigation doesnt show speed cameras anymore after update.,2023-07-14 14:57:22,high,13326
+1048,Infotainment,Yamaha Aerox,Norwegian,Norway,Berøringsskjermen reagerer ikke i kaldt vær.,2023-04-17 22:08:12,medium,18180
+1049,Infotainment,Yamaha YZF-R1,Polish,Poland,Kamera cofania pokazuje czarny ekran losowo przy włączeniu biegu wstecznego.,2023-01-27 01:43:27,critical,14558
+1050,PowerTrain,Yamaha Aerox,English,New Zealand,Clutch slipping when moving in first gear. RPM rises but speed doesnt match.,2022-08-16 20:11:35,medium,75170
+1051,Interior,Yamaha XSR900,English,Canada,Mirror adjustment buttons stopped working. Cant adjust driver side mirror.,2024-09-12 04:35:29,medium,29085
+1052,Infotainment,Mercedes CLA,English,UK,Map download stuck at 87%. Been like this for 2 weeks.,2023-01-28 03:35:01,high,61819
+1053,PowerTrain,Mercedes GLC,English,New Zealand,Engine warning light on for 3 days. Codes show misfires on cylinder 3.,2024-11-23 02:53:11,high,59812
+1054,PowerTrain,Mercedes B-Class,English,Canada,Gear shifts feel sluggish. Response time from paddle shifter is very slow.,2022-09-09 17:24:24,critical,76392
+1055,Interior,Mercedes GLB,English,Canada,Rear window demister not working properly. Only half the grid heats up.,2022-10-25 22:47:54,critical,89653
+1056,Interior,Mercedes CLA,English,Australia,Vibration thru steering wheel when braking from high speed. Scary feeling.,2022-08-21 16:36:12,high,1520
+1057,Interior,Yamaha R15,English,UK,Center console lid keeps popping open on its own. Latch must be broken.,2022-09-11 01:23:31,medium,63999
+1058,PowerTrain,Yamaha FZ-S,English,UK,Clutch slipping when moving in first gear. RPM rises but speed doesnt match.,2022-05-06 12:11:34,high,89439
+1059,Infotainment,Yamaha FZ-S,German,Austria,Lautstärkeregler funktioniert manchmal nicht. Ton bleibt gleich.,2023-04-19 09:18:11,medium,98030
+1060,Infotainment,Yamaha Aerox,English,New Zealand,System fan is very loud. Can hear it from inside cabin when quiet.,2024-06-13 09:10:11,medium,82123
+1061,PowerTrain,Mercedes C-Class,German,Switzerland,Verzögerung beim Gangwechsel mit Automatik. Reaktion sehr träge.,2024-05-09 14:02:15,high,171319
+1062,Infotainment,Yamaha R3,Turkish,Turkey,Geri vites kamerasında görüntü 3 saniye gecikmeli geliyor. Tehlikeli.,2025-02-16 12:35:10,high,52029
+1063,Infotainment,Yamaha XSR900,Italian,Italy,Lo schermo si blocca completamente durante la guida. Molto pericoloso.,2023-03-14 13:26:47,critical,39657
+1064,PowerTrain,Yamaha MT-15,German,Germany,Motor macht komisches Tickgeräusch bei Leerlauf. Hört man deutlich.,2023-05-10 22:24:20,medium,108542
+1065,Infotainment,Mercedes GLA,Turkish,Turkey,Geri vites kamerasında görüntü 3 saniye gecikmeli geliyor. Tehlikeli.,2024-02-05 11:04:41,low,23171
+1066,Infotainment,Yamaha MT-09,French,Switzerland,Son déformé à volume élevé. Les basses craquent beaucoup.,2023-05-31 22:58:49,medium,49210
+1067,PowerTrain,Mercedes EQS,German,Austria,Kraftstoffverbrauch stark gestiegen ohne ersichtlichen Grund. Einspritzdüse defekt?,2023-05-14 19:53:16,critical,123820
+1068,Interior,Yamaha R15,English,New Zealand,Lumbar support motor grinding noise. Adjustment barely moves now.,2022-05-23 22:12:45,high,12524
+1069,Infotainment,Yamaha Aerox,Turkish,Turkey,Ses sistemi bozuluyor yüksek seste. Hoparlörlerden tiz ses geliyor.,2023-01-11 14:39:38,low,33831
+1070,Infotainment,Yamaha Ténéré 700,Spanish,Spain,El sonido se distorsiona mucho a volumen alto.,2023-02-06 19:17:21,critical,114164
+1071,Interior,Mercedes S-Class,English,New Zealand,Remote central locking stopped working. Battery changed but same problem.,2023-01-06 22:59:04,medium,70997
+1072,Interior,Mercedes GLA,English,India,"Cabin is super noisy, can barely hear music even at vol 20. Road noise is crazy loud.",2022-08-31 09:53:03,medium,72657
+1073,Infotainment,Yamaha R3,Danish,Denmark,Bakkameraet viser sort skærm nogle gange. Er meget usikkert.,2024-10-29 09:38:06,high,97440
+1074,Infotainment,Mercedes GLE,English,India,BT audio drops out randomly. Very annoying during calls.,2023-10-23 12:55:42,high,53673
+1075,Infotainment,Mercedes A-Class,Dutch,Belgium,Achteruitrijcamera toont soms een zwart scherm.,2024-12-30 08:21:35,high,41586
+1076,Interior,Yamaha Aerox,English,Canada,Center console lid keeps popping open on its own. Latch must be broken.,2023-09-01 20:02:30,critical,28169
+1077,Interior,Mercedes E-Class,English,USA,Weird squeaking from rear seat whenever I go over bumps. Happens every time.,2025-02-03 13:26:52,high,92224
+1078,Infotainment,Yamaha WR155,Norwegian,Norway,Skjermen fryser helt under kjøring. Svært farlig på motorveien.,2023-08-23 19:21:42,medium,23777
+1079,Infotainment,Yamaha Aerox,Polish,Poland,Kamera cofania pokazuje czarny ekran losowo przy włączeniu biegu wstecznego.,2022-07-18 13:42:12,high,103276
+1080,Infotainment,Mercedes GLE,German,Austria,Bildschirm friert ein und reagiert nicht mehr. Muss System neu starten.,2023-06-16 16:45:55,critical,44525
+1081,Infotainment,Mercedes EQC,English,Canada,Screen sensitivity very low. Have to press hard for anything to register.,2024-05-22 04:13:54,medium,36391
+1082,Infotainment,Yamaha FZ25,Swedish,Sweden,Skärmen fryser helt under körning. Mycket farligt på motorvägen.,2023-07-16 09:46:01,low,33179
+1083,Infotainment,Mercedes GLB,French,Belgium,L'écran tactile ne répond pas quand il fait froid le matin.,2024-04-01 11:11:14,high,116553
+1084,Interior,Yamaha XSR900,English,South Africa,Front door lock makes grinding noise when locking. Feels like mechanism is worn.,2023-06-15 22:03:09,low,5995
+1085,PowerTrain,Yamaha XSR900,English,USA,Power cuts out briefly then comes back. Like engine stumbles for a second.,2023-03-07 00:36:51,critical,122665
+1086,Infotainment,Yamaha MT-15,Polish,Poland,Ekran nie reaguje na dotyk gdy temperatura jest niska rano.,2024-02-22 04:37:56,low,90078
+1087,Infotainment,Mercedes AMG GT,Dutch,Netherlands,Achteruitrijcamera toont soms een zwart scherm.,2024-08-02 06:22:53,low,66990
+1088,PowerTrain,Mercedes S-Class,English,New Zealand,Engine knock audible at low rpm under load. Used premium fuel but same.,2023-01-08 10:30:17,high,48413
+1089,Interior,Yamaha MT-03,English,Canada,My seat rattles non stop since last service. dealership said nothings wrong but it def is,2025-02-09 02:35:10,critical,84996
+1090,Infotainment,Yamaha FZ-S,German,Switzerland,Bildschirm friert ein und reagiert nicht mehr. Muss System neu starten.,2025-04-28 10:57:07,medium,114520
+1091,Infotainment,Mercedes CLA,Norwegian,Norway,Ryggekameraet viser svart skjerm av og til.,2023-08-24 22:02:57,medium,73409
+1092,Infotainment,Yamaha MT-03,English,Canada,Reverse cam image is blurry. Hard to see obstacles behind.,2024-01-16 06:36:18,low,35833
+1093,Interior,Yamaha R15,English,New Zealand,Seat height adjustment stuck. Can only adjust front/back not up/down.,2024-08-03 01:49:03,high,20935
+1094,PowerTrain,Mercedes AMG GT,English,Australia,Strange ticking from top end of engine. Sounds like valve train issue.,2022-09-05 05:41:08,critical,125288
+1095,Infotainment,Mercedes GLB,English,India,Wireless CarPlay not connecting. Shows my phone but then fails.,2023-10-19 03:09:11,low,43723
+1096,Infotainment,Yamaha Aerox,Italian,Italy,Il sistema si riavvia da solo mentre si guida.,2023-07-24 15:22:16,high,43157
+1097,Infotainment,Yamaha Tracer 9,Turkish,Turkey,Ekran tamamen donuyor ve hiçbir şeye basamıyorum. Yeniden başlatmak zorundayım.,2023-07-21 19:41:08,medium,88965
+1098,PowerTrain,Yamaha Tracer 9,English,USA,Clutch feels spongy and slips on hills when pulling away.,2023-06-27 02:16:24,medium,90040
+1099,Interior,Yamaha R15,English,New Zealand,Horrible vibration thru seat esp on rough roads. Back starts hurting after 30 mins,2023-02-13 16:03:24,critical,9281
+1100,Interior,Yamaha FZ25,English,USA,Weird squeaking from rear seat whenever I go over bumps. Happens every time.,2024-10-31 02:38:15,low,29164
+1101,Infotainment,Mercedes G-Class,German,Switzerland,Infotainment startet nach jedem Kaltstart neu. Dauert 4 Minuten.,2025-02-06 21:01:48,high,20086
+1102,Infotainment,Mercedes AMG GT,Polish,Poland,Kamera cofania pokazuje czarny ekran losowo przy włączeniu biegu wstecznego.,2023-07-05 17:33:19,low,112663
+1103,Infotainment,Mercedes GLA,Spanish,Spain,El Bluetooth se desconecta cada pocos minutos. No puedo hablar por teléfono.,2022-12-28 16:26:21,medium,20782
+1104,Infotainment,Mercedes GLC,English,New Zealand,Touchscreen completely unresponsive in cold weather. Have to warm car first.,2022-10-24 06:08:13,medium,60632
+1105,Infotainment,Mercedes AMG GT,Spanish,Mexico,El sonido se distorsiona mucho a volumen alto.,2022-10-20 06:16:13,medium,37275
+1106,Infotainment,Yamaha YZF-R1,Dutch,Belgium,Bluetooth verbreekt de verbinding elke paar minuten.,2023-03-03 10:49:33,medium,22890
+1107,Interior,Mercedes EQC,English,Canada,Cabin interior smells like burning plastic after long drives. Very concerning.,2023-12-02 02:07:31,medium,57722
+1108,Infotainment,Yamaha XSR900,Norwegian,Norway,GPS-navigasjonen er veldig treg i bytrafikk.,2025-03-06 23:45:00,high,92271
+1109,PowerTrain,Yamaha FZ-S,German,Germany,Getriebe ruckt beim Schalten von 2. in 3. Gang. Sehr unangenehm.,2023-05-20 03:23:23,high,54261
+1110,PowerTrain,Mercedes GLC,English,India,Transmission jerks violently sometimes randomly while cruising. No warning.,2022-11-24 03:14:31,medium,123803
+1111,Infotainment,Mercedes A-Class,Swedish,Sweden,Navigationssystemet är väldigt långsamt att uppdatera i staden.,2025-02-13 03:29:33,high,91701
+1112,Infotainment,Yamaha Tracer 9,Polish,Poland,Ekran dotykowy całkowicie się zawiesił podczas jazdy autostradą.,2022-09-20 09:49:58,medium,87020
+1113,PowerTrain,Yamaha XSR900,English,Australia,Rough idle suspected injector issue. Engine stumbles at traffic lights.,2023-12-27 19:45:21,medium,111843
+1114,Interior,Mercedes EQC,English,Australia,Annoying rattle from dashboard area near AC vents. Happened after 3 months of ownership.,2023-04-04 04:28:39,medium,7965
+1115,PowerTrain,Yamaha Aerox,English,Canada,Engine misfiring at low rpm. Mechanic suspects dirty injectors.,2023-01-26 08:12:34,medium,163353
+1116,Infotainment,Yamaha MT-09,English,Australia,GPS navigation very slow to recalculate when i take wrong turn.,2022-12-07 22:57:11,high,9509
+1117,Infotainment,Yamaha NMAX,Norwegian,Norway,Ryggekameraet viser svart skjerm av og til.,2024-03-10 21:38:50,critical,5876
+1118,Infotainment,Mercedes EQS,English,UK,Screen brightness doesnt auto adjust. Always too bright at night.,2024-10-13 08:54:28,low,82652
+1119,Interior,Yamaha Ténéré 700,English,South Africa,Glove box wont stay shut. Keep finding it open while driving.,2022-05-13 03:39:59,high,87838
+1120,PowerTrain,Mercedes G-Class,German,Switzerland,Motorwarnleuchte leuchtet dauerhaft. Fehlercode zeigt Lambdasonde.,2023-03-05 02:16:12,critical,21922
+1121,Infotainment,Mercedes S-Class,Turkish,Turkey,Navigasyon sistemi çok yavaş güncelleniyor. Şehirde kullanmak imkansız.,2024-12-30 17:20:01,medium,84867
+1122,Infotainment,Mercedes AMG GT,Swedish,Sweden,Backkameran visar svart bild ibland när man lägger i backen.,2025-01-05 01:09:22,medium,84993
+1123,PowerTrain,Mercedes EQS,German,Germany,Leistungsverlust beim Überholen auf der Autobahn. Motor läuft unrund.,2022-11-13 01:51:32,low,126141
+1124,Infotainment,Yamaha FZ-S,English,South Africa,Map download stuck at 87%. Been like this for 2 weeks.,2022-06-02 05:26:47,medium,100388
+1125,Infotainment,Yamaha Aerox,Dutch,Belgium,Het navigatiesysteem is erg traag in de stad. Kaart loopt achter.,2025-01-27 15:51:29,critical,106978
+1126,Interior,Mercedes GLE,English,India,Rear window demister not working properly. Only half the grid heats up.,2024-11-12 11:44:25,low,8626
+1127,PowerTrain,Yamaha MT-15,English,Australia,Temperature spikes randomly even on short drives. Already replaced thermostat.,2023-04-14 07:36:29,high,172431
+1128,Infotainment,Yamaha NMAX,German,Switzerland,Bildschirm friert ein und reagiert nicht mehr. Muss System neu starten.,2023-12-16 06:17:06,low,81376
+1129,PowerTrain,Mercedes E-Class,English,Australia,Check engine light on. Scanner shows O2 sensor fault code.,2022-09-23 01:43:37,high,63569
+1130,PowerTrain,Yamaha XSR900,English,UK,Knocking sound from engine on cold start. Goes away after warmup but worrying.,2024-02-04 11:23:46,high,108849
+1131,Infotainment,Mercedes GLC,Swedish,Sweden,Skärmen fryser helt under körning. Mycket farligt på motorvägen.,2024-10-05 00:54:21,critical,85587
+1132,PowerTrain,Yamaha FZ25,English,USA,Gearbox jerks when shifting from 2nd to 3rd. Started after 20k km.,2022-12-21 07:22:28,critical,62623
+1133,PowerTrain,Mercedes A-Class,English,New Zealand,Clutch pedal feels very heavy compared to before. Hard to change gears.,2022-05-01 15:08:04,medium,81658
+1134,Infotainment,Mercedes CLA,Turkish,Turkey,Yazılım güncellemesinden sonra sistem sürekli çöküyor.,2022-09-18 06:44:06,high,103786
+1135,Interior,Yamaha Ténéré 700,English,Australia,Interior door handle on rear left door feels very loose. Might break soon.,2023-03-13 06:39:28,high,90411
+1136,PowerTrain,Yamaha R3,English,Canada,Hard starting in morning. Cranks many times before firing. Injector related?,2024-08-10 23:34:17,high,88808
+1137,Infotainment,Yamaha XSR900,Italian,Italy,Il Bluetooth si disconnette continuamente dal cellulare. Ogni pochi minuti.,2022-08-20 23:10:09,high,52194
+1138,Infotainment,Mercedes E-Class,English,USA,Strange static noise from speakers when using nav. Happens together.,2024-10-26 06:40:12,high,57282
+1139,Infotainment,Yamaha MT-09,Danish,Denmark,Touchskærm reagerer ikke ordentligt i koldt vejr om morgenen.,2024-12-18 10:22:52,high,116048
+1140,Interior,Yamaha Tracer 9,English,India,Seat vibr at low rpm is annoying. happens mostly in traffic when idling.,2024-09-01 21:36:53,medium,13133
+1141,Infotainment,Mercedes GLC,English,Canada,Nav map freezes for few seconds then jumps. Makes it hard to follow route.,2024-06-01 13:17:03,medium,13596
+1142,Infotainment,Yamaha FZ25,English,New Zealand,Bluetooth wont connect to my iPhone 14 at all. Android works fine.,2023-01-05 19:59:06,medium,43378
+1143,PowerTrain,Yamaha YZF-R1,English,UK,AT transmission takes forever to downshift when i need acceleration fast.,2023-06-09 03:19:49,critical,101379
+1144,Infotainment,Yamaha FZ25,English,New Zealand,Hey Mercedes not working after update. It just ignores me.,2024-07-08 09:32:19,low,108274
+1145,PowerTrain,Yamaha WR155,English,USA,Transmission fluid leak noticed under car. Small puddle every morning.,2025-04-16 17:58:05,critical,102657
+1146,Infotainment,Yamaha YZF-R1,German,Switzerland,Infotainment startet nach jedem Kaltstart neu. Dauert 4 Minuten.,2025-03-25 03:21:36,medium,104027
+1147,PowerTrain,Mercedes CLS,English,Canada,AT transmission takes forever to downshift when i need acceleration fast.,2023-09-29 00:46:18,medium,109928
+1148,PowerTrain,Mercedes B-Class,English,Australia,Engine knock audible at low rpm under load. Used premium fuel but same.,2023-01-03 07:19:32,high,30336
+1149,Interior,Yamaha Aerox,English,Canada,"Noticed seat vibration started few weeks ago, gets worse when engine warms up",2023-04-20 00:39:48,high,38230
+1150,Infotainment,Mercedes EQS,English,Australia,Touchscreen completely unresponsive in cold weather. Have to warm car first.,2023-02-03 18:03:56,medium,39768
+1151,Infotainment,Yamaha MT-03,English,Australia,Reverse camera lines not aligned with actual path. Very misleading.,2022-06-20 16:54:07,high,30490
+1152,Interior,Mercedes C-Class,English,UK,Ambient light colors not changing. Stuck on white even tho i set it to blue.,2023-01-11 18:07:00,medium,49972
+1153,Infotainment,Mercedes GLB,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2024-04-14 04:52:50,high,10355
+1154,Interior,Yamaha Ténéré 700,English,New Zealand,Overhead console rattles loudly on rough roads. Very irritating.,2023-11-13 18:43:51,high,75974
+1155,Infotainment,Mercedes B-Class,Turkish,Turkey,Ses sistemi bozuluyor yüksek seste. Hoparlörlerden tiz ses geliyor.,2025-01-13 22:50:05,medium,25070
+1156,Infotainment,Yamaha Tracer 9,Turkish,Turkey,Ekran tamamen donuyor ve hiçbir şeye basamıyorum. Yeniden başlatmak zorundayım.,2023-07-19 14:05:28,low,101827
+1157,Infotainment,Yamaha Ténéré 700,English,UK,Volume knob has no effect sometimes. Screen shows change but no audio change.,2025-04-02 19:34:02,high,30745
+1158,Infotainment,Yamaha MT-09,Italian,Italy,Il suono è distorto ad alto volume. Le basse frequenze crepitano.,2023-01-28 22:22:37,low,17082
+1159,Infotainment,Yamaha YZF-R1,Norwegian,Norway,Skjermen fryser helt under kjøring. Svært farlig på motorveien.,2025-02-22 06:30:38,low,44290
+1160,PowerTrain,Yamaha FZ25,English,Canada,Hard starting in morning. Cranks many times before firing. Injector related?,2023-01-12 09:18:48,high,124523
+1161,Interior,Yamaha MT-09,English,Australia,Ambient light system completely dead since software update last month.,2024-02-18 00:09:20,low,54183
+1162,PowerTrain,Yamaha R15,English,Australia,Whirring noise from engine bay at idle. Goes away above 2000rpm.,2023-08-31 06:44:16,low,116398
+1163,Infotainment,Mercedes EQC,English,India,Reverse camera lines not aligned with actual path. Very misleading.,2023-05-14 14:56:48,medium,60021
+1164,Infotainment,Mercedes G-Class,German,Germany,Apple CarPlay verbindet sich nicht mehr nach dem Update.,2024-01-27 21:06:38,medium,114304
+1165,Infotainment,Yamaha YZF-R1,Dutch,Belgium,Touchscreen reageert niet bij koud weer 's ochtends.,2025-01-05 19:44:36,medium,39841
+1166,Interior,Mercedes EQS,English,South Africa,Seatbelt buckle on passenger side very stiff. Hard to insert belt.,2022-11-12 08:41:30,low,17128
+1167,PowerTrain,Yamaha MT-15,English,USA,Deep knock sound from engine. Gets worse as rpm increases. Very concerning.,2024-10-18 21:57:14,low,71590
+1168,Infotainment,Yamaha MT-09,English,UK,Camera shows black screen sometimes when reversing. Very unsafe.,2024-08-10 10:27:23,high,100051
+1169,Infotainment,Mercedes B-Class,Dutch,Belgium,Het scherm bevriest volledig tijdens het rijden. Erg gevaarlijk.,2024-06-27 02:53:24,medium,9874
+1170,Infotainment,Yamaha MT-03,English,New Zealand,Reverse cam image is blurry. Hard to see obstacles behind.,2024-10-31 05:48:26,critical,56357
+1171,Infotainment,Yamaha R15,English,South Africa,Reverse cam image is blurry. Hard to see obstacles behind.,2024-10-01 05:34:36,low,37978
+1172,Infotainment,Mercedes GLC,Danish,Denmark,Lydsystemet laver mærkelig støj fra højttalerne ved høj lydstyrke.,2025-01-31 02:13:51,medium,8435
+1173,PowerTrain,Yamaha Tracer 9,English,UK,Whirring noise from engine bay at idle. Goes away above 2000rpm.,2024-07-16 16:02:07,low,143151
+1174,Infotainment,Mercedes CLS,English,Australia,Bluetooth keeps disconnecting from my phone every 10-15 minutes.,2024-02-04 14:10:29,low,44698
+1175,PowerTrain,Mercedes GLB,English,South Africa,Replaced clutch 8 months ago and its slipping again already. Very expensive.,2023-08-24 10:58:04,low,176821
+1176,Infotainment,Mercedes CLA,Turkish,Turkey,Navigasyon sistemi çok yavaş güncelleniyor. Şehirde kullanmak imkansız.,2024-04-16 08:54:53,medium,83761
+1177,Interior,Yamaha Aerox,English,Australia,Loud humming noise inside from around 60kmh. Gets louder with speed. Very annoying.,2022-08-15 20:43:33,medium,32318
+1178,PowerTrain,Yamaha Ténéré 700,English,South Africa,Oil pressure warning light flickering at idle. Very alarming.,2025-02-11 01:11:41,medium,86475
+1179,Infotainment,Yamaha MT-03,English,Australia,Screen sensitivity very low. Have to press hard for anything to register.,2024-08-31 04:23:32,high,17322
+1180,Infotainment,Yamaha Aerox,English,Canada,Audio cuts in and out randomly. Speaker issue or software?,2022-09-04 02:53:17,high,20735
+1181,Interior,Yamaha FZ-S,English,India,Way too much wind noise inside cabin at speeds above 100. Seals seem bad.,2023-07-06 19:36:25,critical,59729
+1182,Infotainment,Yamaha R15,Polish,Poland,Ekran nie reaguje na dotyk gdy temperatura jest niska rano.,2022-08-07 17:36:55,low,62572
+1183,Infotainment,Mercedes EQS,Norwegian,Norway,Ryggekameraet viser svart skjerm av og til.,2025-01-28 13:33:03,critical,88028
+1184,Interior,Mercedes AMG GT,English,India,Sunroof doesnt close all the way. Small gap left even when fully closed.,2023-10-11 13:27:31,high,36721
+1185,PowerTrain,Yamaha FZ25,German,Switzerland,Motorgeräusch hat sich nach Ölwechsel verändert. Klingt lauter als vorher.,2023-07-04 04:02:20,medium,147697
+1186,Infotainment,Mercedes GLA,Danish,Denmark,Touchskærm reagerer ikke ordentligt i koldt vejr om morgenen.,2024-05-30 04:10:47,low,80844
+1187,PowerTrain,Yamaha Ténéré 700,German,Austria,Motor überhitzt nach 30 Minuten Autobahnfahrt. Musste an der Seite anhalten.,2024-10-11 11:15:28,low,179562
+1188,Infotainment,Mercedes B-Class,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2022-09-14 21:43:12,critical,57390
+1189,Infotainment,Yamaha WR155,Spanish,Argentina,La pantalla se congela completamente mientras conduces. Es muy peligroso.,2025-02-15 21:43:32,critical,108869
+1190,Interior,Mercedes EQS,English,India,Central locking not working on rear right door. Have to manually lock it.,2023-06-20 22:06:12,low,8975
+1191,PowerTrain,Yamaha WR155,English,Australia,Engine cuts out at roundabouts when turning and braking together.,2024-09-08 05:59:43,medium,35367
+1192,PowerTrain,Yamaha FZ25,German,Austria,Öldruck-Warnanzeige flackert im Leerlauf. Ölstand ist in Ordnung.,2022-10-11 22:46:27,low,115645
+1193,Interior,Yamaha WR155,English,Australia,Ambient light colors not changing. Stuck on white even tho i set it to blue.,2023-04-06 16:52:13,critical,18431
+1194,Infotainment,Yamaha YZF-R1,French,Switzerland,Son déformé à volume élevé. Les basses craquent beaucoup.,2022-11-06 21:06:45,high,53995
+1195,Infotainment,Mercedes E-Class,English,UK,Radio station presets reset after every engine off. Very annoying.,2024-11-15 00:25:22,high,5374
+1196,Interior,Yamaha Aerox,English,USA,Steering wheel vibrates at 100kmh. Wheels balanced last week but still happening.,2024-02-15 08:53:15,medium,24350
+1197,PowerTrain,Mercedes CLA,English,South Africa,Clutch pedal feels very heavy compared to before. Hard to change gears.,2023-09-05 21:43:30,high,118017
+1198,Infotainment,Mercedes C-Class,English,India,System restarts every morning on first start. Takes 3 mins to load.,2024-09-01 23:58:10,high,43507
+1199,Infotainment,Yamaha MT-09,German,Austria,Apple CarPlay verbindet sich nicht mehr nach dem Update.,2022-06-14 23:13:54,medium,6178
+1200,PowerTrain,Yamaha FZ-S,English,South Africa,Clutch burning smell during city driving. Slipping on steep inclines.,2023-08-31 15:37:24,critical,175903
+1201,Infotainment,Mercedes CLA,Polish,Poland,Bluetooth rozłącza się co kilka minut. Muszę łączyć ponownie cały czas.,2023-11-08 12:14:24,critical,103694
+1202,Interior,Mercedes GLE,English,Australia,Footrest area gets very hot on long drives. Almost burns foot through shoe.,2023-05-16 10:13:48,low,29556
+1203,PowerTrain,Mercedes EQS,English,India,Turbo not spooling properly. Power delivery is very weak compared to before.,2024-12-29 14:52:31,high,64716
+1204,Infotainment,Yamaha XSR900,Spanish,Spain,El sonido se distorsiona mucho a volumen alto.,2023-11-26 20:34:45,medium,40996
+1205,Interior,Mercedes GLB,English,South Africa,Plastic rattle noise from dash every time i go over a speed bump. super irritating.,2025-04-06 16:07:46,high,26665
+1206,Infotainment,Mercedes G-Class,English,UK,Screen brightness doesnt auto adjust. Always too bright at night.,2022-06-14 20:19:50,medium,82728
+1207,Infotainment,Mercedes G-Class,Turkish,Turkey,Sesli asistan komutları anlamıyor. Elleri serbest kullanamıyorum.,2023-10-09 04:13:11,high,105562
+1208,Infotainment,Yamaha R3,English,Australia,Strange static noise from speakers when using nav. Happens together.,2023-05-26 13:00:30,high,30367
+1209,PowerTrain,Mercedes A-Class,German,Germany,Verzögerung beim Gangwechsel mit Automatik. Reaktion sehr träge.,2025-04-18 01:14:20,high,81058
+1210,Infotainment,Yamaha Ténéré 700,English,South Africa,Screen hangs on loading screen for 5+ mins after startup. Very slow.,2022-10-02 03:41:44,high,100123
+1211,Infotainment,Yamaha FZ25,Polish,Poland,Bluetooth rozłącza się co kilka minut. Muszę łączyć ponownie cały czas.,2022-08-15 13:58:18,medium,108915
+1212,PowerTrain,Yamaha MT-03,German,Austria,Schaltung sehr schwergängig bei Kälte. Gänge lassen sich kaum einlegen.,2023-09-13 16:23:08,medium,66355
+1213,Infotainment,Yamaha MT-15,English,Australia,Nav map freezes for few seconds then jumps. Makes it hard to follow route.,2022-07-10 16:56:53,high,7296
+1214,PowerTrain,Mercedes CLA,German,Austria,Motor macht komisches Tickgeräusch bei Leerlauf. Hört man deutlich.,2025-04-21 13:56:39,low,69172
+1215,Infotainment,Yamaha MT-09,Swedish,Sweden,Navigationssystemet är väldigt långsamt att uppdatera i staden.,2024-06-22 18:57:00,high,84839
+1216,Infotainment,Yamaha WR155,Norwegian,Norway,Bluetooth kobler seg fra telefonen hvert femte minutt.,2024-12-04 12:38:50,medium,37496
+1217,Interior,Mercedes CLA,English,New Zealand,Folding rear seats wont lock back into place properly after folding.,2022-07-26 21:31:04,medium,30321
+1218,PowerTrain,Mercedes C-Class,English,India,Whirring noise from engine bay at idle. Goes away above 2000rpm.,2022-06-15 02:07:25,medium,103936
+1219,Infotainment,Mercedes S-Class,English,New Zealand,Touchscreen completely unresponsive in cold weather. Have to warm car first.,2024-07-20 18:54:58,high,50006
+1220,Infotainment,Mercedes CLS,German,Switzerland,USB-Anschluss lädt das Handy nicht mehr. Früher hat es funktioniert.,2022-06-25 18:24:55,high,81081
+1221,Infotainment,Mercedes S-Class,French,Switzerland,Le Bluetooth se déconnecte constamment de mon téléphone.,2024-06-27 05:42:39,medium,28034
+1222,PowerTrain,Mercedes S-Class,English,India,Flat spot in acceleration between 3000-4000rpm. Car feels very sluggish.,2024-08-29 02:08:48,high,118893
+1223,Interior,Mercedes CLA,English,Australia,AC stopped blowing cold air suddenly. Works for 10 mins then goes warm again.,2024-01-05 19:57:57,high,17454
+1224,Interior,Mercedes GLE,English,Australia,There's a weird whistling sound inside cabin when windows are closed.,2023-11-03 21:27:06,critical,27760
+1225,Interior,Mercedes AMG GT,English,South Africa,"The seat vibrates really bad at highway speeds, feels like something is loose underneath.",2023-09-16 13:24:49,critical,64342
+1226,PowerTrain,Yamaha MT-07,English,New Zealand,Rough idle suspected injector issue. Engine stumbles at traffic lights.,2024-09-16 17:58:13,high,108529
+1227,Interior,Mercedes CLA,English,Australia,Memory seat function not recalling my saved position. Have to readjust every time.,2023-06-10 02:02:59,high,27072
+1228,Infotainment,Yamaha MT-07,French,Belgium,L'assistant vocal ne comprend pas mes commandes. Inutilisable.,2024-02-06 05:13:05,medium,95781
+1229,Infotainment,Mercedes GLB,German,Austria,USB-Anschluss lädt das Handy nicht mehr. Früher hat es funktioniert.,2022-10-02 21:31:17,low,69087
+1230,Interior,Mercedes CLS,English,New Zealand,Seat height adjustment stuck. Can only adjust front/back not up/down.,2023-02-02 12:37:29,high,66842
+1231,PowerTrain,Mercedes CLS,English,India,Power cuts out briefly then comes back. Like engine stumbles for a second.,2023-06-07 15:21:40,low,66812
+1232,PowerTrain,Yamaha R3,German,Switzerland,Motor stirbt plötzlich im Stadtverkehr ab. Kein Vorwarnung.,2022-12-24 15:55:24,high,116160
+1233,Infotainment,Yamaha FZ25,English,Australia,Screen hangs on loading screen for 5+ mins after startup. Very slow.,2024-05-12 03:02:06,medium,15103
+1234,Infotainment,Yamaha MT-09,English,India,GPS navigation very slow to recalculate when i take wrong turn.,2023-07-28 09:23:15,high,66848
+1235,PowerTrain,Mercedes GLB,German,Germany,Antriebswelle vibriert ab 80kmh spürbar durch das gesamte Fahrzeug.,2023-11-03 04:50:00,medium,69725
+1236,Interior,Mercedes CLS,English,USA,"Cabin is super noisy, can barely hear music even at vol 20. Road noise is crazy loud.",2023-04-15 01:19:26,medium,8692
+1237,Infotainment,Mercedes GLE,Turkish,Turkey,Geri vites kamerasında görüntü 3 saniye gecikmeli geliyor. Tehlikeli.,2023-08-13 07:54:44,critical,26261
+1238,Interior,Mercedes A-Class,English,Canada,My seat rattles non stop since last service. dealership said nothings wrong but it def is,2023-08-31 04:02:05,high,7792
+1239,Interior,Yamaha R3,English,New Zealand,Steering wheel vibrates at 100kmh. Wheels balanced last week but still happening.,2024-08-21 20:38:00,medium,92514
+1240,Interior,Mercedes GLC,English,South Africa,Steering wheel vibrates at 100kmh. Wheels balanced last week but still happening.,2023-07-07 03:42:04,medium,1151
+1241,Interior,Yamaha YZF-R1,English,South Africa,Weird squeaking from rear seat whenever I go over bumps. Happens every time.,2023-06-13 03:43:01,medium,76922
+1242,Infotainment,Yamaha MT-09,Danish,Denmark,Lydsystemet laver mærkelig støj fra højttalerne ved høj lydstyrke.,2023-12-25 17:46:00,medium,59609
+1243,Interior,Yamaha YZF-R1,English,Canada,Rear window demister not working properly. Only half the grid heats up.,2024-08-25 04:44:17,high,11695
+1244,Infotainment,Mercedes CLA,English,New Zealand,GPS navigation very slow to recalculate when i take wrong turn.,2024-09-21 08:10:51,low,39974
+1245,Infotainment,Mercedes GLB,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2025-05-07 04:02:18,medium,84054
+1246,Infotainment,Mercedes A-Class,French,Belgium,Son déformé à volume élevé. Les basses craquent beaucoup.,2024-11-14 00:22:57,high,69691
+1247,Infotainment,Yamaha MT-15,English,India,Wireless CarPlay not connecting. Shows my phone but then fails.,2024-02-01 22:59:10,high,7254
+1248,Infotainment,Yamaha Aerox,English,South Africa,Music sounds distorted at high volume. Bass is crackling badly.,2023-12-16 22:11:17,critical,30763
+1249,Interior,Mercedes CLA,English,USA,Weird squeaking from rear seat whenever I go over bumps. Happens every time.,2023-06-16 18:01:38,medium,69463
+1250,Infotainment,Yamaha Ténéré 700,French,France,Le système redémarre tout seul en conduisant. Très perturbant.,2025-04-25 04:13:59,medium,15146
+1251,Infotainment,Mercedes CLS,Norwegian,Norway,Bluetooth kobler seg fra telefonen hvert femte minutt.,2022-12-26 14:57:35,high,21416
+1252,Infotainment,Yamaha YZF-R1,Spanish,Spain,El sistema se reinicia solo mientras conduzco. Muy peligroso.,2022-12-07 09:28:13,high,97270
+1253,Infotainment,Yamaha WR155,Spanish,Mexico,El asistente de voz no entiende mis comandos correctamente.,2023-06-29 08:23:53,medium,28405
+1254,Infotainment,Yamaha WR155,Danish,Denmark,Navigationssystem er meget langsomt til at genberegne ruten.,2025-04-07 07:31:42,critical,48716
+1255,PowerTrain,Mercedes EQC,English,UK,Engine temp gauge going into red after 30 mins on highway. Had to pull over.,2022-08-25 21:17:39,medium,183146
+1256,Interior,Mercedes GLE,English,India,Glove box wont stay shut. Keep finding it open while driving.,2022-12-08 22:38:20,medium,35018
+1257,Infotainment,Yamaha Ténéré 700,Swedish,Sweden,Skärmen fryser helt under körning. Mycket farligt på motorvägen.,2024-04-18 19:08:27,low,76214
+1258,PowerTrain,Mercedes CLS,English,New Zealand,"Engine getting very hot, coolant boiling sound from under hood. Scary.",2023-11-25 13:22:10,low,154701
+1259,Infotainment,Mercedes CLS,English,South Africa,Camera shows black screen sometimes when reversing. Very unsafe.,2023-05-24 22:23:31,medium,3540
+1260,Interior,Mercedes G-Class,English,USA,AC stopped blowing cold air suddenly. Works for 10 mins then goes warm again.,2024-01-22 08:12:51,high,63953
+1261,Infotainment,Yamaha MT-07,English,USA,Bluetooth keeps disconnecting from my phone every 10-15 minutes.,2022-05-05 03:45:29,low,53695
+1262,Interior,Mercedes GLE,English,USA,AC fan on max setting makes rattling sound. Normal speeds are quiet.,2023-01-09 20:05:11,low,60889
+1263,PowerTrain,Yamaha XSR900,English,Canada,Oil pressure warning light flickering at idle. Very alarming.,2022-05-31 08:12:14,critical,152913
+1264,Infotainment,Mercedes GLE,Spanish,Argentina,El Bluetooth se desconecta cada pocos minutos. No puedo hablar por teléfono.,2024-08-02 01:49:41,critical,28347
+1265,Interior,Mercedes CLS,English,UK,Door doesnt lock sometimes when pressing remote. Have to press multiple times.,2024-07-07 17:07:46,low,31495
+1266,Infotainment,Mercedes C-Class,German,Switzerland,Navigationssystem laggt stark in der Stadt. Karte springt plötzlich.,2024-11-02 19:31:16,critical,43665
+1267,PowerTrain,Mercedes A-Class,English,UK,Overheating light came on during traffic jam. Coolant level is fine.,2025-01-23 11:26:37,high,114358
+1268,Infotainment,Mercedes GLA,English,South Africa,Speed limit sign recognition showing wrong limits constantly.,2025-02-19 04:22:28,medium,64328
+1269,Infotainment,Mercedes S-Class,Swedish,Sweden,Navigationssystemet är väldigt långsamt att uppdatera i staden.,2023-12-23 19:56:10,low,53728
+1270,Infotainment,Mercedes CLA,German,Austria,Infotainment startet nach jedem Kaltstart neu. Dauert 4 Minuten.,2024-12-29 16:46:01,critical,94353
+1271,Interior,Yamaha MT-09,English,India,There's a weird whistling sound inside cabin when windows are closed.,2022-05-06 00:59:38,medium,94946
+1272,Infotainment,Mercedes GLC,Turkish,Turkey,Sesli asistan komutları anlamıyor. Elleri serbest kullanamıyorum.,2024-10-29 18:15:39,low,39360
+1273,Interior,Mercedes CLA,English,Canada,Rear window demister not working properly. Only half the grid heats up.,2022-08-19 22:04:42,medium,80140
+1274,Infotainment,Mercedes AMG GT,English,UK,Volume knob has no effect sometimes. Screen shows change but no audio change.,2023-09-01 14:02:58,high,33232
+1275,Infotainment,Yamaha WR155,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2023-09-17 12:14:07,medium,22677
+1276,PowerTrain,Yamaha FZ25,English,UK,Strange ticking from top end of engine. Sounds like valve train issue.,2023-03-18 07:20:41,high,112138
+1277,Interior,Yamaha MT-09,English,Australia,AC fan on max setting makes rattling sound. Normal speeds are quiet.,2022-10-17 17:50:41,low,32891
+1278,Infotainment,Yamaha MT-09,Turkish,Turkey,Bluetooth her seferinde bağlantıyı kesiyor. Çok sinir bozucu.,2023-04-16 11:31:31,medium,112890
+1279,PowerTrain,Mercedes GLC,English,UK,AT transmission shudders between 40-60kmh range. Feels like clutch slipping.,2023-08-22 20:42:15,low,97591
+1280,Infotainment,Mercedes GLC,Spanish,Argentina,La cámara de marcha atrás tarda mucho en activarse.,2023-04-17 07:49:19,medium,105954
+1281,Infotainment,Yamaha MT-09,Danish,Denmark,Skærmen fryser helt fast under kørsel. Meget farligt på motorvejen.,2024-06-04 06:22:37,low,15370
+1282,PowerTrain,Mercedes A-Class,German,Austria,Motorwarnleuchte leuchtet dauerhaft. Fehlercode zeigt Lambdasonde.,2022-06-14 14:00:48,high,131579
+1283,Infotainment,Yamaha Aerox,Swedish,Sweden,Pekskärmen svarar inte vid kallt väder på morgonen.,2022-08-05 02:49:07,medium,59200
+1284,Interior,Yamaha Tracer 9,English,South Africa,Plastic rattle noise from dash every time i go over a speed bump. super irritating.,2022-11-22 12:56:35,high,75147
+1285,Infotainment,Yamaha XSR900,English,Canada,Reverse cam image is blurry. Hard to see obstacles behind.,2024-10-20 09:57:49,high,48518
+1286,Interior,Yamaha MT-03,English,UK,Center console lid keeps popping open on its own. Latch must be broken.,2022-08-22 19:21:27,high,70768
+1287,Infotainment,Mercedes EQC,Spanish,Mexico,El GPS va muy retrasado en la ciudad. La ruta no es precisa.,2025-04-26 14:30:32,medium,100080
+1288,Interior,Yamaha MT-15,English,New Zealand,AC not cooling properly. Outside is 38 degrees and inside still feels hot.,2024-04-06 19:56:29,critical,37688
+1289,Infotainment,Yamaha XSR900,Dutch,Belgium,Geluid vervormt bij hoog volume. Bas klonkt raar.,2023-04-10 04:48:18,critical,43805
+1290,Infotainment,Mercedes G-Class,English,New Zealand,Strange static noise from speakers when using nav. Happens together.,2022-05-04 23:38:23,high,37222
+1291,Infotainment,Yamaha MT-03,Polish,Poland,Kamera cofania pokazuje czarny ekran losowo przy włączeniu biegu wstecznego.,2024-04-02 03:59:00,high,66189
+1292,Interior,Mercedes CLS,English,New Zealand,AC compressor makes loud clicking noise when switched on. Cooling is intermittent.,2025-01-20 16:47:16,high,44887
+1293,PowerTrain,Mercedes AMG GT,German,Switzerland,Motorgeräusch hat sich nach Ölwechsel verändert. Klingt lauter als vorher.,2022-10-25 22:05:41,medium,44930
+1294,PowerTrain,Mercedes GLE,English,India,Flat spot in acceleration between 3000-4000rpm. Car feels very sluggish.,2023-05-26 02:28:43,critical,15316
+1295,PowerTrain,Mercedes C-Class,English,Canada,There's a 2 second delay when selecting D from P. Very annoying in traffic.,2025-04-03 04:25:18,medium,3453
+1296,PowerTrain,Yamaha R3,English,USA,Loud ticking/knocking from engine bay. Sounds metallic. Worst at idle.,2022-06-06 18:16:26,medium,175023
+1297,Infotainment,Yamaha XSR900,Turkish,Turkey,Bluetooth her seferinde bağlantıyı kesiyor. Çok sinir bozucu.,2023-12-14 10:17:29,critical,75113
+1298,Infotainment,Mercedes AMG GT,Spanish,Mexico,El Bluetooth se desconecta cada pocos minutos. No puedo hablar por teléfono.,2024-03-19 08:26:56,high,86911
+1299,Infotainment,Yamaha FZ-S,French,Switzerland,Le Bluetooth se déconnecte constamment de mon téléphone.,2023-11-30 21:16:54,low,106550
+1300,Infotainment,Mercedes GLB,German,Austria,Bluetooth trennt sich ständig vom Handy. Passiert mehrmals pro Fahrt.,2024-05-04 17:49:57,high,92585
+1301,PowerTrain,Mercedes EQC,German,Germany,Motor überhitzt nach 30 Minuten Autobahnfahrt. Musste an der Seite anhalten.,2023-08-01 01:53:51,medium,60090
+1302,Infotainment,Yamaha R3,Danish,Denmark,Bakkameraet viser sort skærm nogle gange. Er meget usikkert.,2022-08-03 01:28:15,high,52334
+1303,Infotainment,Yamaha XSR900,Danish,Denmark,Lydsystemet laver mærkelig støj fra højttalerne ved høj lydstyrke.,2024-04-06 11:39:07,low,48461
+1304,Infotainment,Yamaha Ténéré 700,Dutch,Netherlands,Het scherm bevriest volledig tijdens het rijden. Erg gevaarlijk.,2023-11-24 19:32:02,medium,109162
+1305,Infotainment,Mercedes GLC,English,South Africa,Touchscreen not responding to touch in certain areas especially top corners.,2024-06-28 12:35:37,low,97968
+1306,PowerTrain,Mercedes CLA,English,USA,Gear hunting between 3rd and 4th on gentle acceleration. Makes driving jerky.,2022-06-07 22:38:40,medium,14114
+1307,Infotainment,Mercedes AMG GT,Polish,Poland,Kamera cofania pokazuje czarny ekran losowo przy włączeniu biegu wstecznego.,2023-04-27 22:49:13,high,43214
+1308,Infotainment,Yamaha FZ-S,English,South Africa,Phone disconnects from car BT when going over bumps. Weird issue.,2024-02-06 12:05:31,critical,79621
+1309,PowerTrain,Yamaha FZ25,English,Australia,Clutch engagement point is very high. Almost at top of pedal travel.,2023-12-10 22:50:59,medium,74943
+1310,Infotainment,Mercedes CLA,Italian,Italy,Il touchscreen non risponde al tocco quando fa freddo.,2022-07-10 13:16:55,high,29053
+1311,PowerTrain,Mercedes G-Class,English,South Africa,Check engine light on. Scanner shows O2 sensor fault code.,2022-06-11 21:22:55,low,105290
+1312,Infotainment,Mercedes GLE,Danish,Denmark,Bakkameraet viser sort skærm nogle gange. Er meget usikkert.,2025-02-02 13:24:03,high,53666
