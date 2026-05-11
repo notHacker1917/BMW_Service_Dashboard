@@ -22,7 +22,7 @@ The Yamaha Feedback Analysis Platform is a production-style yet hackathon-ready 
 - **SQLite** - Lightweight persistent storage
 - **LiteLLM** - Unified LLM interface (GPT-4o-mini)
 
-### ML/NLP
+## ML/NLP
 - **sentence-transformers** - BAAI/bge-large-en-v1.5 embeddings
 - **scikit-learn** - TF-IDF, preprocessing
 - **HDBSCAN** - Robust clustering
