@@ -422,12 +422,12 @@ streamlit run yamaha_feedback_ai/app/dashboard/app.py --server.port 8502
 
 ## Team
 
-Built as a comprehensive hackathon-ready ML system for Yamaha's quality analytics team.
+Built as a comprehensive hackathon-ready ML system for BMW's quality analytics team.
 
 
 ## Support
 
-For issues or questions, contact the Yamaha AI team.
+For issues or questions, contact the BMW AI team.
 
 ---
 
