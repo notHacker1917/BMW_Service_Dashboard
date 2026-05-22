@@ -16,7 +16,7 @@ The BMW Feedback Analysis Platform is a production-style yet hackathon-ready sys
 - **Visualizes** insights in an engineer-friendly Streamlit dashboard
 
 ## Tech Stack
-
+ 
 ### Backend
 - **FastAPI** - High-performance REST API 
 - **SQLite** - Lightweight persistent storage
