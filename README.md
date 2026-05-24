@@ -14,7 +14,7 @@ The BMW Feedback Analysis Platform is a production-style yet hackathon-ready sys
 - **Refines** clusters by merging semantically similar patterns
 - **Labels** clusters with TF-IDF keywords + GPT summarization
 - **Visualizes** insights in an engineer-friendly Streamlit dashboard
-
+ 
 ## Tech Stack 
  
 ### Backend
