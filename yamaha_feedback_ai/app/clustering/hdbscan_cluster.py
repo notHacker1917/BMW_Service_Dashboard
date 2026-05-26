@@ -67,7 +67,7 @@ class HDBSCANClustering:
             logger.info(f"  Cluster {cluster_id}: {info['size']} points ({info['percentage']:.1f}%), stability={info['stability']:.3f}")
         
         return labels
-
+ 
     def get_representative_samples(self, labels: np.ndarray, n_samples: int = 3) -> Dict[int, List[int]]:
         """Get representative sample indices for each cluster."""
         representatives = {}
