@@ -16,7 +16,7 @@ class ClusterRefiner:
     def compute_cluster_centroids(self, embeddings: np.ndarray, labels: np.ndarray) -> Dict[int, np.ndarray]:
         """Compute centroid for each cluster."""
         centroids = {}
-        
+         
         for cluster_id in set(labels) - {-1}:
             cluster_mask = labels == cluster_id
             cluster_embeddings = embeddings[cluster_mask]
