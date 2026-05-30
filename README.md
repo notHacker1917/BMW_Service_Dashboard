@@ -9,7 +9,7 @@ The BMW Feedback Analysis Platform is a production-style yet hackathon-ready sys
 - **Ingests** multilingual motorcycle customer complaints (5000+ records) 
 - **Cleans** raw feedback removing PII while preserving technical terms
 - **Extracts** structured failure entities using GPT-4o-mini
-- **Generates** semantic embeddings with BAAI/bge-large-en-v1.5 
+- **Generates** semantic embeddings with BAAI/bge-large-en-v1.5  
 - **Clusters** recurring failures using HDBSCAN (10+ clusters detected)
 - **Refines** clusters by merging semantically similar patterns
 - **Labels** clusters with TF-IDF keywords + GPT summarization
