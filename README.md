@@ -1,6 +1,6 @@
 # 🚗 BMW Service Dashboard - AI Quality Analytics Platform
 
-An internal AI-powered quality analytics system for multilingual motorcycle customer feedback analysis. Transforms noisy complaints into structured engineering insights using NLP, semantic embeddings, clustering, and LLM-assisted labeling.
+An internal AI-powered quality analytics system for multilingual motorcycle customer feedback analysis. Transforms noisy complaints into structured engineering insights using NLP, semantic embeddings, clustering, and LLM-assisted labeling. 
 
 ## Overview  
 
