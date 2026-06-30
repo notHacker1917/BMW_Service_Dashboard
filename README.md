@@ -2,7 +2,7 @@
 
 An internal AI-powered quality analytics system for multilingual motorcycle customer feedback analysis. Transforms noisy complaints into structured engineering insights using NLP, semantic embeddings, clustering, and LLM-assisted labeling.  
 
-## Overview  
+## Overview   
    
 The BMW Feedback Analysis Platform is a production-style yet hackathon-ready system that:
   
