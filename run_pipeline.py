@@ -14,7 +14,7 @@ from app.preprocessing import clean_raw_data
 from app.extraction import extract_entities_from_file
 from app.embedding import format_from_file, generate_embeddings
 from app.clustering import reduce_embeddings, cluster_embeddings, refine_clusters
-from app.labeling import label_clusters
+from app.labeling import label_clusters 
 
 # Create data directories
 RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
