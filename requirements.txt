@@ -11,6 +11,6 @@ uvicorn
 streamlit
 plotly
 loguru
-tenacity
+tenacity 
 aiohttp
 python-dotenv
