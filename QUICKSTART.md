@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Edit `.env`:
 ```
 OPENAI_API_KEY=sk-your-actual-key-here
-```
+``` 
 
 ### Step 3: Verify Environment
 ```bash
