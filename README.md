@@ -19,7 +19,7 @@ The BMW Feedback Analysis Platform is a production-style yet hackathon-ready sys
   
 ### Backend  
 - **FastAPI** - High-performance REST API 
-- **SQLite** - Lightweight persistent storage
+- **SQLite** - Lightweight persistent storage 
 - **LiteLLM** - Unified LLM interface (GPT-4o-mini)
 
 ## ML/NLP
