@@ -13,7 +13,7 @@ def check_python_version():
     return True
 
 
-def check_dependencies():
+def check_dependencies(): 
     """Check if all dependencies are installed."""
     required_packages = [
         "pandas",
