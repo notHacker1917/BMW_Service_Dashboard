@@ -16,7 +16,7 @@ from app.embedding import format_from_file, generate_embeddings
 from app.clustering import reduce_embeddings, cluster_embeddings, refine_clusters
 from app.labeling import label_clusters 
 
-# Create data directories
+# Create data directories 
 RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_DATA_DIR.mkdir(parents=True, exist_ok=True)
