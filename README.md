@@ -12,7 +12,7 @@ The BMW Feedback Analysis Platform is a production-style yet hackathon-ready sys
 - **Generates** semantic embeddings with BAAI/bge-large-en-v1.5     
 - **Clusters** recurring failures using HDBSCAN (10+ clusters detected)
 - **Refines** clusters by merging semantically similar patterns
-- **Labels** clusters with TF-IDF keywords + GPT summarization
+- **Labels** clusters with TF-IDF keywords + GPT summarization 
 - **Visualizes** insights in an engineer-friendly Streamlit dashboard
   
 ## Tech Stack 
