@@ -10,7 +10,7 @@ from app.utils.logger import logger
 from app.utils.config import RAW_DATA_DIR, PROCESSED_DATA_DIR, OUTPUT_DATA_DIR
 from app.database import DatabaseManager
 from generate_data import generate_synthetic_data, save_raw_data
-from app.preprocessing import clean_raw_data
+from app.preprocessing import clean_raw_data 
 from app.extraction import extract_entities_from_file
 from app.embedding import format_from_file, generate_embeddings
 from app.clustering import reduce_embeddings, cluster_embeddings, refine_clusters
