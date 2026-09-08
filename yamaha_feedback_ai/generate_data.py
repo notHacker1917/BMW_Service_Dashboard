@@ -12,7 +12,7 @@ from app.utils.config import (
     DOMAINS,
     FAILURES,
     COUNTRIES,
-    SUPPORTED_LANGUAGES,
+    SUPPORTED_LANGUAGES, 
 )
 
 # Multilingual complaint templates
