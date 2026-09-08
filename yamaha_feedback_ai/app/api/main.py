@@ -19,7 +19,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include routes
+# Include routes 
 app.include_router(router)
 
 logger.info("FastAPI application initialized")
