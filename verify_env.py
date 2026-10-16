@@ -10,7 +10,7 @@ def check_python_version():
     if version.major < 3 or (version.major == 3 and version.minor < 11):
         print("  WARNING: Python 3.11+ recommended")
         return False  
-    return True
+    return True 
 
 
 def check_dependencies(): 
