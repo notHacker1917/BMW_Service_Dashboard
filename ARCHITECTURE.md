@@ -5,7 +5,7 @@ This document explains the end-to-end architecture and data flow.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-1. DATA INGESTION LAYER
+1. DATA INGESTION LAYER 
 ─────────────────────────────────────────────────────────────────────────────
 
 INPUT: Multilingual motorcycle complaints
