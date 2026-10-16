@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### Step 2: Configure API Key
 Edit `.env`:
-```
+``` 
 OPENAI_API_KEY=sk-your-actual-key-here
 ``` 
 
