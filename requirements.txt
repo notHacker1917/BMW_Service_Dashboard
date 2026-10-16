@@ -8,7 +8,7 @@ litellm
 langdetect
 fastapi
 uvicorn
-streamlit
+streamlit 
 plotly
 loguru
 tenacity 
