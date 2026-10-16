@@ -8,7 +8,7 @@
 - OpenAI API key
 
 ### Setup
-```bash
+```bash 
 pip install -r requirements.txt
 export OPENAI_API_KEY=your-key
 python run_pipeline.py
