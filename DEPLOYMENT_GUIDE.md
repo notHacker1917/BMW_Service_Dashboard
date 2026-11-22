@@ -5,7 +5,7 @@
 ### Prerequisites
 - Python 3.11+
 - 4GB+ RAM
-- OpenAI API key
+- OpenAI API key 
 
 ### Setup
 ```bash 
