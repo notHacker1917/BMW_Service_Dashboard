@@ -16,7 +16,7 @@ A production-style AI-powered quality analytics platform for multilingual motorc
 3. ✅ GPT Entity Extraction - Structured failure information
 4. ✅ Semantic Formatting - Standardized text representation
 5. ✅ Embedding Generation - BAAI/bge-large-en-v1.5 vectors
-6. ✅ UMAP Dimensionality Reduction - 1024D → 15D
+6. ✅ UMAP Dimensionality Reduction - 1024D → 15D 
 7. ✅ HDBSCAN Clustering - Semantic failure groups
 8. ✅ Cluster Refinement - Merge similar patterns
 9. ✅ Cluster Labeling - GPT + TF-IDF labels
