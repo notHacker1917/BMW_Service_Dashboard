@@ -7,7 +7,7 @@ umap-learn
 litellm
 langdetect
 fastapi
-uvicorn
+uvicorn 
 streamlit 
 plotly
 loguru
