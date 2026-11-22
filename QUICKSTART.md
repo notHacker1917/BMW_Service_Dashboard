@@ -4,7 +4,7 @@
 
 ### Step 1: Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ### Step 2: Configure API Key
